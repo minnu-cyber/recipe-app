@@ -1,32 +1,31 @@
-# [Project Name] 🎯
+# [recipe web app] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [RRR]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Riya R Rozario] - [College of Engineering perumon]
+- Member 2: [Haritha B S] - [College of Engineering perumon]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://recipe-app-pearl-te[n.vercel.app/]
 
 ### Project Description
-[2-3 lines about what your project does]
+This is a simple web application that allows users to auntheticate,select recipes based on their preferences,input ingredients and view the result.This application is built using HTML,CSS and JavaScript
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[recipe providing with input ingredients]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[web application created for generating recipe with user ingredients]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [HTML,CSS and JavaScript]
+- [bootstrap]
 - [Libraries used]
 - [Tools used]
 
@@ -47,7 +46,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![![image](https://github.com/user-attachments/assets/32b1583c-5f03-41ff-89c8-f5612c36b626)
+](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
