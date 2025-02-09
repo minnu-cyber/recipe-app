@@ -54,7 +54,8 @@ For Software:
 ](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![![image](https://github.com/user-attachments/assets/6e5f869f-61e7-4c75-868c-fb44f91bd647)
+](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
